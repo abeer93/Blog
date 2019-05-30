@@ -4,6 +4,25 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
+            <div class="container">
+                <h1>You can log in with</h1>
+                <div class="row">
+                    <div class="col-md-4">
+                        <b>Admin Account</b>
+                        <p>Email    : admin@admin.com</p>
+                        <p>Password : admin159</p>
+                    </div>
+                    <div class="col-md-4">
+                        <b>User Account</b>
+                        <p>Email    : user@user.com</p>
+                        <p>Password : user159</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-md-8">
             <div class="card">
                 <div class="card-header">{{ __('Login') }}</div>
 
